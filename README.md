@@ -1,5 +1,4 @@
 # AI-and-data-analysis-subject-and-projects
-# AI-and-data-analysis-subject-and-projects
 
 ## 📘 Descripción
 Este repositorio contiene proyectos y prácticas de la asignatura **Análisis de Datos e Inteligencia Artificial**, cubriendo temas como *Machine Learning*, *Deep Learning* y análisis exploratorio de datos.
