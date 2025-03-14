@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Este proyecto tiene como objetivo la clasificación de imágenes utilizando algoritmos clásicos de aprendizaje automático. Se emplean modelos como k-Nearest Neighbors (kNN), Árboles de Decisión (DTS), Random Forest y Gradient Boosting para comparar su rendimiento y optimizar la precisión en la clasificación.
+Este proyecto tiene como objetivo la regresion de la calidad del vino usando algoritmos clásicos de aprendizaje automático. Se emplean modelos como k-Nearest Neighbors (kNN), Árboles de Decisión (DTS), Random Forest y Gradient Boosting para comparar su rendimiento y optimizar la precisión en la clasificación.
 
 ## Requisitos
 
