@@ -69,7 +69,7 @@ from tensorflow.keras.callbacks import TensorBoard
 ```
 
 ## Acceso al modelo:
-[CNN](https://drive.google.com/drive/u/0/folders/1fhOQ_kDEYniUJZsl_9caTKka9rYXslL7)
+[CNN](https://drive.google.com/drive/u/1/folders/1_Sp6UW9eMSj_rKKkd-VeUDhuO_siYXV1)
 
 [Modelo denso](https://drive.google.com/drive/u/1/folders/1_Sp6UW9eMSj_rKKkd-VeUDhuO_siYXV1)
 
